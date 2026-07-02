@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class ReshapeMatrix {
     public int[][] matrixReshape(int[][] mat, int r, int c) {
         int m = mat.length;
