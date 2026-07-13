@@ -9,7 +9,7 @@ class Node {
     }
 }
 
-class Traversal {
+class DepthFirstSearch {
     public static void preorder(Node node) {
         if(node == null)
             return;
